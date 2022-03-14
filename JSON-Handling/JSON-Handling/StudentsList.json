@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "fullName": "Firoz Sheikh",
+      "class": 9,
+      "division": "A",
+      "roll_no": 1,
+      "enrollment_date": "Mon, 02 Apr 2012"
+    },
+    {
+      "fullName": "Manjur Sheikh",
+      "class": 9,
+      "division": "A",
+      "roll_no": 2,
+      "enrollment_date": "Wed, 04 Apr 2012"
+    },
+    {
+      "fullName": "Suraj Sheikh",
+      "class": 9,
+      "division": "B",
+      "roll_no": 1,
+      "enrollment_date": "Mon, 30 Apr 2012"
+    },
+    {
+      "fullName": "Javed Sheikh",
+      "class": 9,
+      "division": "B",
+      "roll_no": 2,
+      "enrollment_date": "Mon, 30 Apr 2012"
+    },
+    {
+      "fullName": "Raj Sheikh",
+      "class": 9,
+      
+      "roll_no": "3",
+      "enrollment_date": "Mon, 02 Apr 2012"
+    }
+  ]
+}
+
